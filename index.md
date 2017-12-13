@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
-		<title>Sherina Hung</title>
+		Sherina Hung
 	</head>
 	<body>
 		<nav>
@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>A short blurb about me...</h1>
-				<p>My name is Sherina and I am currently a freshman student studying computer science and statistics at the University of Illinois at Urbana Champaign<em>I'm from San Jose, California</em> ... <a href="/about">Read more about my life...</a></p>
+				<p>My name is Sherina and I am currently a freshman student studying computer science and statistics at the University of Illinois at Urbana Champaign. I'm also from San Jose, California <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
@@ -26,4 +26,4 @@
 		</footer>
 	</body>
 </html>
-4 Commit index.html. At the bottom o
+
