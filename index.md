@@ -7,21 +7,21 @@
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+	        	<li><a href="/About">About</a></li>
+        		<li><a href="/Resume">Resume</a></li>
+        		<li><a href="/Blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
         		<h1>A short blurb about me...</h1>
-				<p>My name is Sherina and I am currently a freshman student studying computer science and statistics at the University of ILlinois at Urbana Champaign<em>I'm from San Jose, California</em> ... <a href="/about">Read more about my life...</a></p>
+				<p>My name is Sherina and I am currently a freshman student studying computer science and statistics at the University of Illinois at Urbana Champaign<em>I'm from San Jose, California</em> ... <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:sherina2@illinois.edu">email</a></li>
-        		<li><a href="https://github.com/sherina0922">github.com/sherina0922</a></li>
+        		<li><a href="mailto:sherina2@illinois.edu">Email: sherina2@illinois.edu</a></li>
+        		<li><a href="https://github.com/sherina0922">GitHub: github.com/sherina0922</a></li>
 			</ul>
 		</footer>
 	</body>
