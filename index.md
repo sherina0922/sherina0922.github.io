@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Something about me...</h1>
-				<p>My name is Sherina and I am currently a freshman student studying computer science and					statistics at the University of Illinois at Urbana Champaign. Dying in the chilly   					Illinois winds and reminiscing the California sun</p>
+				<p>My name is Sherina and I am currently a freshman student studying computer science and					statistics at the University of Illinois at Urbana Champaign.</p>
 		<footer> 			
     		<ul>
         		<li><a href="mailto:sherina2@illinois.edy">sherina2@illinois.edu</a></li>
