@@ -8,6 +8,7 @@
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/About">About</a></li>
+			<li><a href="/http://github.com/sherina0922/projects">Projects</a></li>
         		<li><a href="https://drive.google.com/file/d/1w6_4ODDe2Y7dN3bEblzdlwxsT5HyXfIG/view?	usp=sharing">Resume</a></li>
         		<li><a href="https://github.com/sherina0922">Projects</a></li>
     		</ul>
