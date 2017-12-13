@@ -1,0 +1,23 @@
+
+<html>
+	<head>		
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/About">About</a></li>
+        		<li><a href="https://drive.google.com/file/d/1w6_4ODDe2Y7dN3bEblzdlwxsT5HyXfIG/view?	usp=sharing">Resume</a></li>
+        		<li><a href="https://sherina0922.github.io">Projects</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Projects</h1>
+				<p>Game Arcade.</p>
+		<footer> 			
+		</footer>
+	
+	
+
