@@ -19,7 +19,7 @@
 				<p1><a href="/about">Read more about my life...</p1>
 		<footer>
     		<ul>
-        		<li><a href="mailto:sherina2@illinois.edy">Email</a></li>
+        		<li><a href="mailto:sherina2@illinois.edy">sherina2@illinois.edu</a></li>
         		<li><a href="https://github.com/sherina0922">github.com/sherina0922</a></li>
 			</ul>
 		</footer>
