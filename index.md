@@ -22,7 +22,6 @@
         		<li><a href="https://github.com/sherina0922">github.com/sherina0922</a></li>
 			</ul>
 		</footer>
-	</body>
-</html>
+	
 	
 
