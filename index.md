@@ -19,10 +19,8 @@
 				<p><a href="/about">Read more about my life...</p>
 		<footer>
     		<ul>
-        		Email: <li><a href="mailto:sherina2@illinois.edu">sherina2@illinois.edu</a></li>
+        		<li><Email: a href="mailto:sherina2@illinois.edu">sherina2@illinois.edu</a></li>
         		GitHub: <li><a href="https://github.com/sherina0922">github.com/sherina0922</a></li>
 			</ul>
 		</footer>
-	</body>
-</html>
-
+	
