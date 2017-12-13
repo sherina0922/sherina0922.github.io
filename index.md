@@ -14,9 +14,9 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>A short blurb about me...</h1>
-				<p>My name is Sherina and I am currently a freshman student studying computer science and statistics at the University of Illinois at Urbana Champaign. I'm also from San Jose, California 
-<a href="/about">Read more about my life...</a></p>
+        		<h1>Something about me...</h1>
+				<p>My name is Sherina and I am currently a freshman student studying computer science and					statistics at the University of Illinois at Urbana Champaign. Dying in the chilly   					Illinois winds and reminiscing the California sun</a></p>
+				<p><a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
