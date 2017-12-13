@@ -16,13 +16,13 @@
     		<div class="blurb">
         		<h1>Something about me...</h1>
 				<p>My name is Sherina and I am currently a freshman student studying computer science and					statistics at the University of Illinois at Urbana Champaign. Dying in the chilly   					Illinois winds and reminiscing the California sun</a></p>
-				<p><a href="/about">Read more about my life...</a></p>
+				<p><a href="/about">Read more about my life...</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:sherina2@illinois.edu">Email: sherina2@illinois.edu</a></li>
-        		<li><a href="https://github.com/sherina0922">GitHub: github.com/sherina0922</a></li>
+        		Email: <li><a href="mailto:sherina2@illinois.edu">sherina2@illinois.edu</a></li>
+        		GitHub: <li><a href="https://github.com/sherina0922">github.com/sherina0922</a></li>
 			</ul>
 		</footer>
 	</body>
